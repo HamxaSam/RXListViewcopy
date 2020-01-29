@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "516559096010",
+    "firebase_url": "https://rxlistview-copy.firebaseio.com",
+    "project_id": "rxlistview-copy",
+    "storage_bucket": "rxlistview-copy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:516559096010:android:91363e48f64497cf64cc33",
+        "android_client_info": {
+          "package_name": "com.example.rxlistview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "516559096010-ukg1gqk7d46bpe13c18cef62mtd3c42s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rxlistview",
+            "certificate_hash": "e37185a462227375d562e3f62edabe550aa0b906"
+          }
+        },
+        {
+          "client_id": "516559096010-63o3ve2gboga3amgdp019dskshbjgb6f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZcN0lxIAr3Wj7b0U6_jSAZHMny9u8vWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "516559096010-63o3ve2gboga3amgdp019dskshbjgb6f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
