@@ -1,0 +1,1 @@
+package com.example.rxlistview.helpers;import java.io.Serializable;public interface MyInterface extends Serializable {    void PassData(String value);}

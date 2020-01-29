@@ -1,0 +1,1 @@
+package com.example.rxlistview.helpers;import android.content.Context;public class MyInterfaceObject {    private Context context;    private MyInterface inter;    public MyInterfaceObject(Context context, MyInterface inter) {        this.context = context;        this.inter = inter;        inter.PassData ("value");    }}
